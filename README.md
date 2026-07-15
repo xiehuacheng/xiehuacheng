@@ -9,25 +9,17 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+<p align="center">
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=xiehuacheng&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+</p>
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td valign="top" rowspan="2">
-      <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=xiehuacheng&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=xiehuacheng&layout=compact&theme=tokyonight" alt="Top Languages" width="320" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://streak-stats.demolab.com?user=xiehuacheng&theme=tokyonight" alt="GitHub Streak" width="320" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=xiehuacheng&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=xiehuacheng&theme=tokyonight" alt="GitHub Streak" width="400" />
+</p>
 
 ## ⭐ Featured Projects
 
