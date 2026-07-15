@@ -4,12 +4,20 @@
 
 Welcome to my GitHub profile!
 
-- 🏢 SCUT
-- 📍 Guangdong China
+[![Email](https://img.shields.io/badge/Email-1162243398%40qq.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1162243398@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-xiehuacheng-181717?style=flat&logo=github&logoColor=white)](https://github.com/xiehuacheng)
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
+## 📊 GitHub Stats
+
+![xiehuacheng's GitHub stats](https://github-readme-stats-eight-mu.vercel.app/api?username=xiehuacheng&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=xiehuacheng&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=xiehuacheng&theme=default)
 
 ## ⭐ Featured Projects
 
@@ -27,19 +35,6 @@ Welcome to my GitHub profile!
 
 - **[SmartRAG](https://github.com/xiehuacheng/SmartRAG)** ⭐ 0 | Python
   一个用于学习的简单 Agent 系统，附带 RAG 功能
-
-## 📊 GitHub Stats
-
-![xiehuacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiehuacheng&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiehuacheng&layout=compact&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=xiehuacheng&theme=default)
-
-## 📞 Contact
-
-[![Email](https://img.shields.io/badge/Email-1162243398@qq.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1162243398@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-xiehuacheng-181717?style=flat&logo=github&logoColor=white)](https://github.com/xiehuacheng)
 
 ---
 
