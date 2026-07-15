@@ -13,11 +13,14 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![xiehuacheng's GitHub stats](https://github-readme-stats-eight-mu.vercel.app/api?username=xiehuacheng&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=xiehuacheng&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=xiehuacheng&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=xiehuacheng&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=xiehuacheng&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xiehuacheng&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
 
 ## ⭐ Featured Projects
 
