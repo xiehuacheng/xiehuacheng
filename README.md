@@ -29,17 +29,14 @@ Welcome to my GitHub profile!
 
 ## ⭐ Featured Projects
 
-- **[TokMon](https://github.com/xiehuacheng/TokMon)** ![Stars](https://img.shields.io/github/stars/xiehuacheng/TokMon?style=flat&logo=github&color=facc15) ![Language](https://img.shields.io/badge/-Swift-6e7681?style=flat)
-  一个 MacOS 状态栏 Token 统计应用
+| Repository | Stars | Language |
+|------------|-------|----------|
+| **[TokMon](https://github.com/xiehuacheng/TokMon)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/TokMon?style=flat-square&logo=github&color=8b949e) | Swift |
+| **[KV-Cache_Sparse_Inference](https://github.com/xiehuacheng/KV-Cache_Sparse_Inference)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/KV-Cache_Sparse_Inference?style=flat-square&logo=github&color=8b949e) | Python |
+| **[skills](https://github.com/xiehuacheng/skills)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/skills?style=flat-square&logo=github&color=8b949e) | JavaScript |
+| **[WikiHub](https://github.com/xiehuacheng/WikiHub)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/WikiHub?style=flat-square&logo=github&color=8b949e) | Python |
 
-- **[KV-Cache_Sparse_Inference](https://github.com/xiehuacheng/KV-Cache_Sparse_Inference)** ![Stars](https://img.shields.io/github/stars/xiehuacheng/KV-Cache_Sparse_Inference?style=flat&logo=github&color=facc15) ![Language](https://img.shields.io/badge/-Python-6e7681?style=flat)
-  大模型键值缓存压缩高效推理方法，本科毕业设计项目
-
-- **[skills](https://github.com/xiehuacheng/skills)** ![Stars](https://img.shields.io/github/stars/xiehuacheng/skills?style=flat&logo=github&color=facc15) ![Language](https://img.shields.io/badge/-JavaScript-6e7681?style=flat)
-  Agent Skills 技能集合，将各领域经验打包为可复用的 AI 能力 | A collection of Agent Skills that turn AI agents into reusable domain experts.
-
-- **[WikiHub](https://github.com/xiehuacheng/WikiHub)** ![Stars](https://img.shields.io/github/stars/xiehuacheng/WikiHub?style=flat&logo=github&color=facc15) ![Language](https://img.shields.io/badge/-Python-6e7681?style=flat)
-  Agent 驱动的个人知识导入工作流，支持微信读书、公众号、播客、B 站、小红书、Cubox。
+_Star counts update automatically via shields.io._
 
 ---
 
