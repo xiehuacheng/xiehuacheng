@@ -33,8 +33,6 @@ Welcome to my GitHub profile!
 |------------|-------|----------|
 | **[TokMon](https://github.com/xiehuacheng/TokMon)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/TokMon?style=flat-square&logo=github&color=8b949e) | Swift |
 | **[KV-Cache_Sparse_Inference](https://github.com/xiehuacheng/KV-Cache_Sparse_Inference)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/KV-Cache_Sparse_Inference?style=flat-square&logo=github&color=8b949e) | Python |
-| **[skills](https://github.com/xiehuacheng/skills)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/skills?style=flat-square&logo=github&color=8b949e) | JavaScript |
-| **[WikiHub](https://github.com/xiehuacheng/WikiHub)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/WikiHub?style=flat-square&logo=github&color=8b949e) | Python |
 
 _Star counts update automatically via shields.io._
 
