@@ -29,7 +29,10 @@ Welcome to my GitHub profile!
 
 ## 🔥 Highlight
 
-I'm currently focused on **[WikiHub](https://github.com/xiehuacheng/WikiHub)** — Agent 驱动的个人知识导入工作流，支持微信读书、公众号、播客、B 站、小红书、Cubox。
+I'm currently focused on:
+
+- **[WikiHub](https://github.com/xiehuacheng/WikiHub)** — Agent 驱动的个人知识导入工作流，支持微信读书、公众号、播客、B 站、小红书、Cubox。
+- **[skills](https://github.com/xiehuacheng/skills)** — Agent Skills 技能集合，将各领域经验打包为可复用的 AI 能力 | A collection of Agent Skills that turn AI agents into reusable domain experts.
 
 ---
 
