@@ -27,14 +27,9 @@ Welcome to my GitHub profile!
   <img src="https://streak-stats.demolab.com?user=xiehuacheng&theme=tokyonight" alt="GitHub Streak" width="400" />
 </p>
 
-## ⭐ Featured Projects
+## 🔥 Highlight
 
-| Repository | Stars | Language |
-|------------|-------|----------|
-| **[WikiHub](https://github.com/xiehuacheng/WikiHub)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/WikiHub?style=flat-square&logo=github&color=8b949e) | Python |
-| **[skills](https://github.com/xiehuacheng/skills)** | ![Stars](https://img.shields.io/github/stars/xiehuacheng/skills?style=flat-square&logo=github&color=8b949e) | JavaScript |
-
-_Star counts update automatically via shields.io._
+I'm currently focused on **[WikiHub](https://github.com/xiehuacheng/WikiHub)** — Agent 驱动的个人知识导入工作流，支持微信读书、公众号、播客、B 站、小红书、Cubox。
 
 ---
 
